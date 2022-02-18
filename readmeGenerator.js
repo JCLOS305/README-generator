@@ -1,6 +1,6 @@
 function readmeGenerator(response) {
     var content = `# ${response.title}
-##### (https://www.${response.GitHub}) [Email Me] : (${response.email}) 
+##### [Github](https://www.${response.GitHub}) [Email Me](${response.email}) 
 #### ReadMeGenerator© 2022 All Rights Reserved.  ${response.license}
     
 ## Table of Contents

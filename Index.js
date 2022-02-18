@@ -62,3 +62,14 @@ let questions = [
 ];
 
 
+// creates  README file //
+inquirer.prompt(questions).then(function(response) {
+    console.log(response);
+    
+     var content = readmeGenerator(response);
+     console.log(content);
+      fs.writeFile("./ReadMe.md", content, function(err){
+          if (err) throw err
+          console.log("success");
+      });
+ } ); 

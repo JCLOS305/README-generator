@@ -1,5 +1,5 @@
 # 
-##### (https://www.github.com/jclos305) [Email Me] : (jclos305@hotmail.com) 
+##### (https://www.) [Email Me] : () 
 #### ReadMeGenerator© 2022 All Rights Reserved.  MIT
     
 ## Table of Contents
@@ -45,7 +45,7 @@ undefined
     
 # Screenshots 
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo  [screenshot] ( Assets\Images\NODE-Screenshot.PNG )
+#### Demo  [screenshot] ( https://github.com/JCLOS305/README-generator/blob/main/Assets/Images/NODE-Screenshot.PNG )
     
     
 

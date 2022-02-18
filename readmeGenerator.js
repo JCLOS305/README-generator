@@ -8,6 +8,8 @@ function readmeGenerator(response) {
 * [User Story](#User-Story)
 * [Installation Instructions](#Instalation-Instructions)
 * [Usage Information](#Usage-Information)
+* [Contribution Guidelines](#Contribution-Guidelines)
+* [Test Instruction](#Test-Instructions)
 * [Screenshots](#ScreenShots)
 * [License](#License) 
 

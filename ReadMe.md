@@ -45,7 +45,7 @@ yes, project can be tested by cloning the repo to a machine and running NODE IND
     
 # Screenshots 
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo  [screenshot.js](Assets\Images\NODE Screenshot.PNG)
+#### Demo  [screenshot.js](./Assets/Images/NODE Screenshot.PNG)
     
     
 

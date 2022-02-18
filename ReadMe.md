@@ -45,7 +45,7 @@ yes, project can be tested by cloning the repo to a machine and running NODE IND
     
 # Screenshots 
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo  ![screenshot](Assets/Images/NODE-Screenshot.png)
+#### Demo  ![screenshot](https://github.com/JCLOS305/README-generator/blob/main/Assets/Images/NODE-Screenshot.PNG?raw=true)
     
     
 

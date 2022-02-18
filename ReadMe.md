@@ -1,5 +1,5 @@
-# Readme Generator
-##### [Github](https://www.github.com/jclos305) [Email Me](jclos305@hotmail.com) 
+# readme generator
+##### [Github](https://www.github.com/jclos305) [Email Me] : (jclos305@hotmail.com) 
 #### ReadMeGenerator© 2022 All Rights Reserved.  MIT
     
 ## Table of Contents
@@ -53,6 +53,9 @@ yes, project can be tested by cloning the repo to a machine and running NODE IND
 
     
 # License
+![JCLOS305](https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue)
+![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
+
 MIT  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
    

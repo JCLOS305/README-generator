@@ -1,6 +1,6 @@
 function readmeGenerator(response) {
     var content = `# ${response.title}
-##### [Github](https://www.${response.GitHub}) [Email Me](${response.email}) 
+##### [Github](https://www.${response.GitHub}) [Email Me] : (${response.email}) 
 #### ReadMeGenerator© 2022 All Rights Reserved.  ${response.license}
     
 ## Table of Contents
@@ -54,6 +54,9 @@ ${response.test}
 
     
 # License
+![JCLOS305](https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue)
+![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
+
 ${response.license}  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
    

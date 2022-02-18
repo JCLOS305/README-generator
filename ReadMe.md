@@ -1,6 +1,6 @@
 # Readme Generator
-##### [JCLOS305](github.com/jclos305) [Email Me](jclos305@hotmail.com) 
-#### ReadMeGenerator© 2022 All Rights Reserved.  MIT
+##### [https://github.com/undefined/undefined](github.com/jclos305) [Email Me] : (jclos305@hotmail.com) 
+#### ReadMeGenerator© 2022 All Rights Reserved.  MIT ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
 ## Table of Contents
 * [Repository Description](#Repository-Description)
@@ -45,13 +45,13 @@ yes, project can be tested by cloning the repo to a machine and running NODE IND
     
 # Screenshots 
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo  [screenshot.js](./Assets/Images/NODE Screenshot.PNG)
+#### Demo  [screenshot.js](c:/Users/Jc/Desktop/Code/Homework/README-generator/Assets/Images/NODE Screenshot.PNG)
     
     
 
     
 # License
-MIT
+MIT ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
     
    
     

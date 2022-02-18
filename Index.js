@@ -56,7 +56,7 @@ let questions = [
     },{
         type: "input",
         message: "Please provide a screenshot",
-        name: "screenshot"
+        name: "screenshotjs"
     },
     
 ];

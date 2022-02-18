@@ -8,7 +8,7 @@ function readmeGenerator(response) {
 * [User Story](#User-Story)
 * [Installation Instructions](#Instalation-Instructions)
 * [Usage Information](#Usage-Information)
-* [Screenshots](#Screen-Shot)
+* [Screenshots](#ScreenShots)
 * [License](#License) 
 
     
@@ -31,7 +31,7 @@ ${response.install}
 
 # Usage Information
 ###### [Back to Table of Contents](#Table-of-Contents)
-${response.usage}
+${response.Usage}
 
   
 # Contribution Guidelines
@@ -46,13 +46,13 @@ ${response.test}
     
 # Screenshots 
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo  [screenshot] ( ${response.screenshot} )
+#### Demo  ![screenshot](${response.screenshotjs})
     
     
 
     
 # License
-${response.license}  [GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+${response.license}  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
    
     

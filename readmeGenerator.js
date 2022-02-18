@@ -54,8 +54,7 @@ ${response.test}
 
     
 # License
-![JCLOS305](https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue)
-![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
+
 
 ${response.license}  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     

@@ -1,5 +1,5 @@
 # readme generator
-##### [Github](https://www.github.com/jclos305) [Email Me] : (jclos305@hotmail.com) 
+##### [Github](https://www.github.com/jclos305) [Email Me](mailto:jclos305@hotmail.com) 
 #### ReadMeGenerator© 2022 All Rights Reserved.  MIT
     
 ## Table of Contents

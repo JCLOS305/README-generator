@@ -1,6 +1,6 @@
 function readmeGenerator(response) {
     var content = `# ${response.title}
-##### [https://github.com/${response.Username}/${response.Title}](${response.GitHub}) [Email Me] : (${response.email}) 
+##### (https://www.${response.GitHub}) [Email Me] : (${response.email}) 
 #### ReadMeGenerator© 2022 All Rights Reserved.  ${response.license}
     
 ## Table of Contents
@@ -46,13 +46,13 @@ ${response.test}
     
 # Screenshots 
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo  [screenshot.js](${response.screenshotjs})
+#### Demo  [screenshot] ( ${response.screenshot} )
     
     
 
     
 # License
-${response.license} 
+${response.license}  [GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
    
     

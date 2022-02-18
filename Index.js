@@ -50,13 +50,13 @@ let questions = [
         name: "license",
         message: "Was a license used for this project?",
         choices : [
-            "MIT ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)",
+            "MIT",
             "None"
         ],
     },{
         type: "input",
         message: "Please provide a screenshot",
-        name: "screenshotjs"
+        name: "screenshot"
     },
     
 ];

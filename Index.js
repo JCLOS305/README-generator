@@ -14,12 +14,10 @@ let questions = [
         name: "description"
 
     },{
-
         type: "input",
         message: "installation instructions",
         name: "install"
     },{
-
         type: "input",
         message: "usage information",
         name: "Usage"
@@ -32,12 +30,10 @@ let questions = [
         message: "Can project be tested? How?",
         name: "test"
     },{
-
         type: "input",
         message: "What is your GitHub user name?",
         name: "userName"
     },{
-        
         type: "input",
         message: "Please give your GitHub profile link.",
         name: "GitHub"
